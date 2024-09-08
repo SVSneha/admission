@@ -1,0 +1,16 @@
+h1{
+  background-color: lightblue;
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+td,table,th{
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+th{
+  background-color: lightblue;
+}
+
+
